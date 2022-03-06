@@ -1,0 +1,5 @@
+{
+	"ip":"dsvfugsuyf.aternos.me",
+	"port": "49796",
+	"name": "susan"
+}
